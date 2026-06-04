@@ -6,6 +6,10 @@ Official plugin marketplace for Claude Code plugins by cookiesncache.
 
 [Add the marketplace](https://code.claude.com/docs/en/discover-plugins#add-from-github) using `cookiesncache/claude-plugins`, then [install](https://code.claude.com/docs/en/discover-plugins#install-plugins) any plugin by name — e.g. `travel-planner@cookiesncache-marketplace`.
 
+## Versioning
+
+The marketplace catalog (`marketplace.json`) is versioned independently from individual plugins. The catalog version tracks changes to the catalog itself (plugins added, SHAs updated); each plugin tracks its own version in its own `plugin.json`.
+
 ## Update
 
 For update instructions, see the [official docs](https://code.claude.com/docs/en/discover-plugins#configure-auto-updates). Auto-update can be enabled via `/plugin` → **Marketplaces** → `cookiesncache-marketplace` → **Enable auto-update**.
