@@ -13,7 +13,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cookiesncache/travel-planner.git",
-        "sha": "ba4cdf2af44cbb733de7d6bc9a04f9e695e2b6cf"
+        "sha": "126438135a9952dd36beb202930b91602f4acc33"
       },
       "description": "Guides Claude through planning any trip end-to-end — road trips, flights, international travel, city breaks — using a 5-step workflow built around a connector-agnostic travel plan that syncs with your calendar, itinerary, and task apps."
     }
