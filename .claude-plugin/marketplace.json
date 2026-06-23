@@ -13,7 +13,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cookiesncache/travel-planner.git",
-        "sha": "86b686f5ec34373befe92c33b363ff83b796bb28"
+        "sha": "4035734cd13cf4a97582327b0af58378fd541c2f"
       },
       "description": "Guides Claude through planning any trip end-to-end — road trips, flights, international travel, city breaks — using a 7-step workflow: activity & dining discovery, adversarial feasibility (pacing, weather, budget, safety, legality, seasonal routes), trip readiness (visa, packing, vaccinations, insurance), schedule, tasks, and reminders — all built around a connector-agnostic travel plan that syncs with your calendar, itinerary, and task apps."
     }
