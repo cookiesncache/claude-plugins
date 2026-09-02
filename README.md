@@ -21,3 +21,4 @@ Note: plugins in this marketplace are pinned to specific commit SHAs. When a new
 | Plugin | Description |
 |---|---|
 | [Travel planner](https://github.com/cookiesncache/travel-planner) | End-to-end trip planning with a multi-step workflow |
+| [Triforce](https://github.com/cookiesncache/triforce) | Orchestrated build-and-audit workflow whose reviewer stops |
