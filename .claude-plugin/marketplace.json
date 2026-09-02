@@ -16,6 +16,15 @@
         "sha": "1becae209f18cd84d4dbce1b65478fb84e017d91"
       },
       "description": "Guides Claude through planning any trip end-to-end — road trips, flights, international travel, city breaks — using a 7-step workflow: activity & dining discovery, adversarial feasibility (pacing, weather, budget, safety, legality, seasonal routes), trip readiness (visa, packing, vaccinations, insurance), schedule, tasks, and reminders — all built around a connector-agnostic travel plan that syncs with your calendar, itinerary, and task apps. Includes slash commands for direct invocation."
+    },
+    {
+      "name": "triforce",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/cookiesncache/triforce.git",
+        "sha": "fab777fd3017a472e13254ac21bb6ab096949403"
+      },
+      "description": "An orchestrated build-and-audit workflow whose reviewer stops. zelda plans and merges on Opus, link executes in an isolated git worktree on Sonnet, and ganondorf renders a verdict on the merged diff against a frozen, user-sourced criteria list — three tier variants (sonnet/opus/fable) selected by a preflight risk score. The audit is required but never blocking, and terminates because a monotone per-branch invocation ledger bounds it, not because the reviewer decides it is done."
     }
   ]
 }
